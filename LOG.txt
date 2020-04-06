@@ -1,0 +1,11 @@
+[06/04/20 02:22:32] [pedro 127.0.0.1] Se ha hecho administrador al usuario matty.
+[06/04/20 02:22:36] [pedro 127.0.0.1] Se ha quitado permisos al usuario matty.
+[06/04/20 02:22:37] [pedro 127.0.0.1] Se ha hecho administrador al usuario matty.
+[06/04/20 02:22:38] [pedro 127.0.0.1] Se ha quitado permisos al usuario matty.
+[06/04/20 02:22:39] [pedro 127.0.0.1] Se ha hecho administrador al usuario matty.
+[06/04/20 02:22:40] [pedro 127.0.0.1] Se ha quitado permisos al usuario matty.
+[06/04/20 02:22:42] [pedro 127.0.0.1] Se ha eliminado al usuario matty.
+[06/04/20 02:22:55] [pedro 127.0.0.1] Se ha(n) creado 5 invitacion(es).
+[06/04/20 02:23:26] [pedro 127.0.0.1] Se ha(n) creado 5 invitacion(es).
+[06/04/20 02:23:32] [pedro 127.0.0.1] Se han eliminado todas las invitaciones.
+[06/04/20 02:23:41] [pedro 127.0.0.1] Se ha(n) creado 12 invitacion(es).
